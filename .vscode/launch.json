@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SockMerchant",
+            "request": "launch",
+            "mainClass": "SockMerchant",
+            "projectName": "Sock-Merchant-Java_e1c6dd7d"
+        }
+    ]
+}
